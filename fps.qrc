@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/content/qmldir</file>
+        <file>qml/content/Fps.qml</file>
+        <file>qml/mainViewer.qml</file>
+    </qresource>
+    <qresource prefix="/common">
+        <file alias="spinner">images/common/spinner.png</file>
+    </qresource>
+</RCC>
